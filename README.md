@@ -3,8 +3,8 @@
 Simple Windows script to convert a wordPress.xml file produced by blox.pl site to blogger format.
 No guarantees it will work for all other wordpress exports.
 
-Quick and dirty solution, no XSLT, just replace text with other + a bt of regex.
-Put script files to the same folder with wordpress.xml and run replace.cmd
+Quick and dirty solution, no XSLT, just replace text with other + a bit of regex.
+Put script files to the same folder with wordpress.xml and run replacer.cmd
 The output file created is blogger.xml
 
 My personal experience is that it works much better than google coverter.
