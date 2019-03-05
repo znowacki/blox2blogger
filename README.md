@@ -34,4 +34,4 @@ What blogger expects is sth like this:
 
 </feed>
 
-Every tag is important here and <id> shall be unique, however it can be sth different than URL. In the script I just used one of timestamps.
+Every tag is important here. ID shall be unique, however it can be sth different than URL. In the script I just used one of timestamps.
