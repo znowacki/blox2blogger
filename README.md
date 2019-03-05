@@ -1,6 +1,6 @@
 # blox2blogger
 
-Simple script to convert a wordPress.xml file produced by blox.pl site to blogger format.
+Simple Windows script to convert a wordPress.xml file produced by blox.pl site to blogger format.
 No guarantees it will work for all other wordpress exports.
 
 Quick and dirty solution, no XSLT, just replace text with other + a bt of regex.
