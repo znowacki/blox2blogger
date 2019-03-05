@@ -23,7 +23,7 @@ What blogger expects is sth like this:
     </author>
     <link rel='self' type='application/atom+xml' href='https:/blox.pl'/>
     <entry>
-        <title type='html'>Wstep2</title>
+        <title type='html'>Title of entry</title>
         <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/blogger/2008/kind#post" />
 
         <published>2013-12-29T20:37:23Z</published>
