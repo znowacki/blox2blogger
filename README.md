@@ -28,8 +28,10 @@ What blogger expects is sth like this:
 
         <published>2013-12-29T20:37:23Z</published>
         <id>https://blox.pl/entry1</id>
-        <content type='html'><![CDATA[ Whatever. Your source entry here, no windows newlines! ]]>​</content>
+        <content type='html'><![CDATA[ Whatever. Your source entry here, no windows newlines! ]]></content>
 
     </entry>
 
 </feed>
+
+Every tag is important here and <id> shall be unique, however it can be sth different than URL. In the script I just used one of timestamps.
