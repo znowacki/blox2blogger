@@ -10,7 +10,7 @@ The output file created is blogger.xml
 My personal experience is that it works much better than google coverter.
 Google converter can produce a file which does not meet blogger requirements. It also changes entry format,
 which in turn makes blogger adding additional HTML tags.
-This is why Blogger import takes long (in fact, it stucks at errors).
+This is why Blogger import takes long (in fact, it stucks at errors). Sometimes Blogger informs that no entry was imported but after page refresh you can see import was done.
 
 What blogger expects is sth like this:
 
